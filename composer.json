@@ -3,7 +3,7 @@
     "description": "Bare-bones OpenID Connect client - i-WaysHR fork",
     "require": {
         "php": ">=5.4",
-        "phpseclib/phpseclib" : "2.0.1",
+        "phpseclib/phpseclib" : "2.0.11",
         "ext-json": "*",
         "ext-curl": "*"
     },
