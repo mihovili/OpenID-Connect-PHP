@@ -1,5 +1,5 @@
 {
-    "name": "iwayshr/openid-connect-php",
+    "name": "mihovili/openid-connect-php",
     "description": "Bare-bones OpenID Connect client - i-WaysHR fork",
     "require": {
         "php": ">=5.4",
