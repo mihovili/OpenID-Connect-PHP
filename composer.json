@@ -1,10 +1,10 @@
 {
-    "name": "nkajic/openid-connect-php",
+    "name": "mihovili/openid-connect-php",
     "description": "Bare-bones OpenID Connect client - FORK",
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.4",
-        "phpseclib/phpseclib" : "~3.0.9",
+        "phpseclib/phpseclib" : "~2.0",
         "ext-json": "*",
         "ext-curl": "*"
     },
